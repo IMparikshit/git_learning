@@ -1,0 +1,9 @@
+command:-
+1.Git init:- Initializes a new Git repository in your project folder. It starts tracking your project using Git.
+2.Git status:-Shows the current status of your files and tells you which files are new, modified, or ready to commit.
+3. git add
+Definition: Adds new or modified files to the staging area so they can be included in the next commit.
+4. git commit
+Definition: Saves the staged changes in your local Git repository with a message describing the changes.
+git push
+Definition: Uploads your committed changes from your local Git repository to a remote repository, such as GitHub.
