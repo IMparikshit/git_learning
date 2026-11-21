@@ -17,3 +17,14 @@ IN SIMPLE WORDS
 Git = Tracks and manages code changes.
 
 GitHub = Stores and shares code online.
+
+
+command:-
+1. Git init:- Initializes a new Git repository in your project folder. It starts tracking your project using Git.
+2. Git status:- Shows the current status of your files and tells you which files are new, modified, or ready to commit.
+3. Git add:-  Adds new or modified files to the staging area so they can be included in the next commit.
+4. Git commit:- Saves the staged changes in your local Git repository with a message describing the changes.
+5. Git push:- Uploads your committed changes from your local Git repository to a remote repository, such as GitHub.
+
+
+
